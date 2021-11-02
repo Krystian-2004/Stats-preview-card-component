@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](https://github.com/Krystian-2004/Stats-preview-card-component/blob/main/design/screenshot.JPG)
+![Screenshot](https://github.com/Krystian-2004/Stats-preview-card-component/blob/main/design/Screenshot.JPG)
 
 ### Links
 
